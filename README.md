@@ -23,4 +23,4 @@ The dialog must have only an "OK" button that dismisses the dialog.
 
 The code must make use of Android Architecture Components **LiveData** and **ViewModel** and be written in **Kotlin**. You are free to use whatever other third-party libraries you want. Once finished, create a zip file with your solution and send it back to the interviewer that sent you the initial instruction. An acknowledgment will be sent to you after reception if everything is all right.
 
-Please take the time to build a solution that you feel proud of and that would be a clear representation of your knowledge and expertise in iOS Development.
+Please take the time to build a solution that you feel proud of and that would be a clear representation of your knowledge and expertise in Android Development.
