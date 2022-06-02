@@ -4,7 +4,7 @@
 
 Your mission, if you choose to accept it, is to write an app which calls the iTunes Public API to **create a list of albums** for a specified artist.
 
-https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html
 
 For this task, your objective is to create a simple Android app with one screen. At the top of the screen there should be a search field where the user can type in the name of a Band / Singer / Artist, and then generate a list of all the albums for that artist. Each row must display the Album **Artwork**, Album **Name**, and **Release Date**.
 
